@@ -16,3 +16,10 @@
 - LED on/off
 - Counter to time and LED on/off
 - RFDC (snapshot receiver) - there are still errors. According to casper it should generate a .dtbo file. But somehow it doesn't
+
+- Vivado and Vitis
+  - https://www.youtube.com/watch?v=UZ3FnZNlcWk&ab_channel=FPGAsforBeginners
+    
+- Simulink to HDL
+  - https://www.youtube.com/watch?v=0j9J6sB5iDI&ab_channel=MATLAB
+   
